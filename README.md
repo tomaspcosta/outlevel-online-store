@@ -20,7 +20,7 @@ OutLevel is a web application developed using the OutSystems platform, following
 
 ## Technical Aspects  
 The project follows a structured architecture, implementing:  
-- **CS, BL, and FE Layers** – Proper separation of concerns in the application.  
+- **CS, BL, FE, and API Layers** – Proper separation of concerns in the application.  
 - **Metadata Implementation** – Enhancing system flexibility and scalability.  
 - **CRUD Operations** – Full data management functionality.  
 - **Advanced SQL Query** – Optimized data retrieval.  
