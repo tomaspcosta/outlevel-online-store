@@ -9,7 +9,7 @@
 
 ##   1. Project Description
 
-OutLevel is a web application developed using the OutSystems platform, following a low-code approach. The project was created as part of the "OutSystems Application Development" course and aims to provide a fully functional online store for IT products. The platform includes both front-office and back-office functionalities, allowing users to purchase products and administrators to manage the system efficiently. [cite: 1]
+OutLevel is a web application developed using the OutSystems platform, following a low-code approach. The project was created as part of the "OutSystems Application Development" course and aims to provide a fully functional online store for IT products. The platform includes both front-office and back-office functionalities, allowing users to purchase products and administrators to manage the system efficiently.
 
 This project demonstrates the development of a comprehensive online store using the OutSystems platform, showcasing its capabilities for building complex web applications with both customer-facing and administrative interfaces.
 
@@ -22,7 +22,7 @@ This project demonstrates the development of a comprehensive online store using 
 ###   Front-Office
 
 * **User Registration and Login:** Secure authentication and profile management.
-* **Product Search and Navigation:** Browse by categories such as hardware, software, and services with advanced filters (price, brand, specifications).
+* **Product Search and Navigation:** Browse by categories such as hardware, software, and services.
 * **Shopping Cart and Checkout:** Add products to the cart and complete purchases securely.
 * **Order Tracking:** Track the status of orders in real-time.
 
